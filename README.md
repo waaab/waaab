@@ -1,6 +1,6 @@
-# Hello, I'm Bögözi Attila! 👋
+# Hi there, I'm Attila! 👋
 
-## Web Developer, Web Designer, SEO Strategist, and eCommerce Manager based in Transylvania
+## eCommerce Consultant, Web Developer, and SEO Strategist based in Transylvania
 
 ### 🚀 About Me
 I'm a passionate web developer and tech enthusiast. I love creating innovative web solutions and pushing the boundaries of technology. My journey has led me to develop a diverse skill set, ranging from Angular development to SEO strategy implementation. In my free time, you'll find me blogging about Web Technologies, exploring the world of eFootball, delving into philosophy, or capturing life through my lens.
