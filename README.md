@@ -7,7 +7,7 @@ I'm a passionate web developer and tech enthusiast. I love creating innovative w
 
 ### 🌐 Professional Endeavors
 - **Angular Development:** Actively developing a farming app and the Székely Szótár, showcasing my proficiency in modern web frameworks.
-- **SEO and Content Creation:** Regular contributor to [my tech blog](https://blog.bogozi.com), aligning with the newest SEO strategies. My articles are a testament to my expertise and thought leadership in tech.
+- **SEO and Content Creation:** Regular contributor to [Attila's Blog](https://blog.bogozi.com), aligning with the newest SEO strategies. My articles are a testament to my expertise and thought leadership in tech.
 - **E-commerce Expertise:** Building and managing comprehensive eCommerce solutions. My 8 years carreer at Nespresso HQ exemplifies my capabilities.
 
 ### 💼 My Goals for This Year
@@ -20,8 +20,8 @@ Catch my latest thoughts and insights on technology and web development on [blog
 
 ### 📫 Connect With Me
 - **Website:** [bogozi.com](https://bogozi.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/attilabogozi/)
-- **Email:** [Your Email Address](attila@bogozi.com)
+- **LinkedIn:** [Attila Bögözi LinkedIn](https://www.linkedin.com/in/attilabogozi/)
+- **Email:** [attila@bogozi.com](attila@bogozi.com)
 
 ---
 
