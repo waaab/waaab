@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Trasylvanian Web Directory
+- 🌱 I’m currently learning Spanish
+- 👯 I’m looking to collaborate on an Angular Web Directory
+- 💬 Ask me about eBusiness, SEO, e-commerce, Web Development
+- 📫 How to reach me: https://bogozi.com/#contact
+- ⚡ Fun fact: I left the coroporate and big city life, now I code for myself and live on a farm
+
 <!--
 **waaab/waaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
