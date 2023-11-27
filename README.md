@@ -12,7 +12,7 @@ I'm a passionate web developer and tech enthusiast. I love creating innovative w
 
 ### 💼 My Goals for This Year
 1. Launch a web directory dedicated to Transylvania, showcasing the region's rich heritage and opportunities.
-2. Expand my client base for website services offered through [bogozi.com](https://bogozi.com).
+2. Expand my client base for website services offered through [eBusiness Consulting](https://bogozi.com).
 3. Innovate in eCommerce solutions, leveraging my experience to develop a robust platform based on Angular.
 
 ### 📝 Blog & Writing
